@@ -1,0 +1,23 @@
+{
+  "name": "LMS Progress Checker",
+  "version": "0.1.0",
+  "description": "Displays users progress of tasks and attendance videos in LMS Canvas",
+  "permissions": ["storage", "tabs"],
+  "host_permissions": ["https://*.canvas.ssu.ac.kr/*"],
+  "icons": {
+    "128": "assets/lms_progress_checker_logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.canvas.ssu.ac.kr/*"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
