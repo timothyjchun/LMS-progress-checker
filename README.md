@@ -16,7 +16,9 @@ I'm sure a lot of students will share the same emotions that I feel when I click
 
 To solve this is I've developed a chrome extension that automatically shows you the **d-day of the assignment** and the **status of the assignment/lecture** for every single item on the course like so :
 
-![after2](https://github.com/timothyjchun/LMS-progress-checker/assets/62375259/6c9e3f5d-6aca-4754-b5ce-f909702f851f)
+
+![after2](https://github.com/timothyjchun/LMS-progress-checker/assets/62375259/73d0f9b9-935f-4544-9a24-161f79d55c30)
+
 
 ✅   🔶   ❌   😁   😉   😢
 Every different emoji shows different status about the item.
