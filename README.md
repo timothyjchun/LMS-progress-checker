@@ -34,5 +34,5 @@ Caching user course information for instant visibility is what I'm working on ðŸ
 
 Plus, I'm working on providing english and other languages.
 
-
+---
 Contact me if your interested and if your school is using canvas + lms but needs some extra configurations
