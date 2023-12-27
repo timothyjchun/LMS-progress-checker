@@ -31,6 +31,7 @@ Nothing! Don't need to provide any personal information or anything. Just make s
 
 ## Whats in the future?
 Caching user course information for instant visibility is what I'm working on 🧑‍💻
+Plus, I'm working on providing english and other languages.
 
 
 Contact me if your interested and if your school is using canvas + lms but needs some extra configurations
