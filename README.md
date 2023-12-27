@@ -21,7 +21,7 @@ To solve this is I've developed a chrome extension that automatically shows you 
 ✅   🔶   ❌   😁   😉   😢
 Every different emoji shows different status about the item.
 
-The extension every time the user accesses a course page, so it is totally dynamic.
+The extension runs every time the user accesses a course page, so it is totally dynamic.
 
 
 ## Prerequisites
