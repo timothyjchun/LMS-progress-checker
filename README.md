@@ -14,7 +14,7 @@ Its nice and tidy.. but the problem is that all those assignments and online lec
 I'm sure a lot of students will share the same emotions that I feel when I clicked into a assignment just to realize that its due in 1hour, or when I click an online video too late, marking me absent tho I didn't even know the sole _existence_ of the lecture.
 
 
-To solve this is I've developed a chrome extension that automatically shows you the **d-day of the assignment** and the **status of the assignment/lecture** for every single item on the course like so :
+To solve this I've developed a chrome extension that automatically shows you the **d-day of the assignment** and the **status of the assignment/lecture** for every single item on the course like so :
 
 
 ![after2](https://github.com/timothyjchun/LMS-progress-checker/assets/62375259/73d0f9b9-935f-4544-9a24-161f79d55c30)
